@@ -1,3 +1,6 @@
+
+heroku buildpacks:set heroku/php
+
 <?php
 // Code to randomly generate conjoint profiles to send to a Qualtrics instance
 
